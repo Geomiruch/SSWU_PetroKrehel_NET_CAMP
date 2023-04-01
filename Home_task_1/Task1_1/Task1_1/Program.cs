@@ -1,4 +1,5 @@
-﻿static void FillMatrixInClockOrder(int[,] matrix)
+// Але ми домовлялись мислити об'єктно-зорієнтовано!!!!!
+static void FillMatrixInClockOrder(int[,] matrix)
 {//hfhldfkjhlkf
     int rowCount = matrix.GetLength(0);
     int colCount = matrix.GetLength(1);
@@ -18,6 +19,7 @@
             matrix[i, maxCol] = num++;
         }
         maxCol--;
+        // Ця умова лишня...ЇЇ можна уникнути
         if (num <= rowCount * colCount)
         {
             for (int i = maxCol; i >= minCol; i--)
