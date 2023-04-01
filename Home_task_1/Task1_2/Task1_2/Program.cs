@@ -1,5 +1,5 @@
 ﻿namespace Task1_2
-{
+{// Все було б просто чудово, якщо б розділили на методи та поклали у відповідний клас.
     internal class Program
     {
         static void Main(string[] args)
