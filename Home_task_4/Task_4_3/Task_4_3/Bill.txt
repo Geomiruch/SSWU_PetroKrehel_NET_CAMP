@@ -1,0 +1,21 @@
+20 3
+1	123 Main St.	Smith	1000	1100	01.01.23
+2	456 Elm St.	Jones	500	650	02.01.23
+3	789 Oak St.	Brown	250	350	03.01.23
+4	321 Pine St.	Taylor	2000	2100	04.01.23
+5	654 Maple St.	Davis	300	400	05.01.23
+6	987 Cedar St.	Moore	1500	1600	06.01.23
+7	111 Birch St.	Walker	700	800	07.01.23
+8	222 Walnut St.	Hall	400	500	08.01.23
+9	333 Cherry St.	Allen	100	200	09.01.23
+10	444 Sycamore St.	King	800	900	10.01.23
+11	555 Elm St.	Baker	1500	1600	11.01.23
+12	666 Maple St.	Cook	1000	1100	12.01.23
+13	777 Cedar St.	Campbell	600	700	13.01.23
+14	888 Birch St.	Carter	700	800	14.01.23
+15	999 Walnut St.	Mitchell	1200	1300	15.01.23
+16	1000 Cherry St.	Parker	500	600	16.01.23
+17	1111 Sycamore St.	James	900	1000	17.01.23
+18	2222 Elm St.	Harris	200	300	18.01.23
+19	3333 Maple St.	Young	400	500	19.01.23
+20	4444 Cedar St.	Scott	300	400	20.01.23

@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\bin\Debug\net6.0\Task_4_1.exe
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\bin\Debug\net6.0\Task_4_1.deps.json
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\bin\Debug\net6.0\Task_4_1.runtimeconfig.json
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\bin\Debug\net6.0\Task_4_1.dll
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\bin\Debug\net6.0\Task_4_1.pdb
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\obj\Debug\net6.0\Task_4_1.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\obj\Debug\net6.0\Task_4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\obj\Debug\net6.0\Task_4_1.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\obj\Debug\net6.0\Task_4_1.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\obj\Debug\net6.0\Task_4_1.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\obj\Debug\net6.0\Task_4_1.dll
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\obj\Debug\net6.0\refint\Task_4_1.dll
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\obj\Debug\net6.0\Task_4_1.pdb
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\obj\Debug\net6.0\Task_4_1.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\Task_4_1\Task_4_1\obj\Debug\net6.0\ref\Task_4_1.dll
