@@ -50,7 +50,7 @@ namespace StringTask
                     words[i] = replacement;
                 }
             }
-
+// загубилась початкова конфігурація пробільних символів між словами..
             return string.Join(' ', words);
         }
 
