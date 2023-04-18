@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//мають бути методи наповненння та віддачі води.
 namespace WaterTower
 {
     internal class WaterTower:ICloneable
