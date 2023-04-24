@@ -31,7 +31,7 @@
     }
 
     class SentenceCollection
-    {
+    {// Db hjpdєязуєте простішу задачу, ніж я визначила. Текст зливати в одну стрічку не можна було.
         private List<Sentence> sentences;
 
         public SentenceCollection()
