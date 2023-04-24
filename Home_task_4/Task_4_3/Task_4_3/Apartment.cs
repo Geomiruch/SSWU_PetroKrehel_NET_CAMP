@@ -27,7 +27,7 @@ namespace Task_4_3
         }
 
         public override string ToString()
-        {
+        {// Шириною полів бажано,щоб користувач міг керувати
             return $"{ApartmentNumber,-5} {Owner,-15} {StartData,-10} {EndData,-10} {LastReadingDate:dd.MM.yy}";
         }
     }
