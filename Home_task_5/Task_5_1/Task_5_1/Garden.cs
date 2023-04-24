@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Task_5_1
 {
     internal class Garden
-    {
+    {// цей алгоритм правильний.
         private List<Tree> Trees;
 
         public Garden(List<Tree> trees)
