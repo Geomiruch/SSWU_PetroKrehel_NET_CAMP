@@ -6,7 +6,7 @@ namespace Task_4_2
     class Program
     {
         static void Main(string[] args)
-        {
+        {//ви не навели всю систему тестів з Вікіпедії
             string text = "simple@example.com very.common@example.com A@b@c@example.com this is\"not\\allowed@example.com";
 
             EmailFinder.FindMailsAndLexems(text);
