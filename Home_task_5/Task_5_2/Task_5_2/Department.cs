@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Task_5_2
-{
+{//загальна ідея добра. але не досконала реалізація
     internal class Department
     {
         public string Name { get; set; }
@@ -18,7 +18,7 @@ namespace Task_5_2
             Products = new List<Product>();
             SubDepartments = new List<Department>();
         }
-
+// Не рекурсивна система обходу ієрархії
         public void AddProduct(Product product, List<string> path)
         {
             if(path.Count>0)
