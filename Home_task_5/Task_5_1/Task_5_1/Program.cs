@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
 
 namespace Task_5_1
-{
+{//Petro	Krehel 		90	0	0	80	90	65	85	82
     internal class Program
     {
         static void Main(string[] args)
